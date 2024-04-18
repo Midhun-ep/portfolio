@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    background-color: #18181b;
+}
+
+
+/* .bar{
+    @apply text-black
+}
+
+.bar::before{
+    content: "____";
+    @apply border-t-4 border-black text-transparent pb-8
+    
+} */
