@@ -60,19 +60,19 @@ const Contact = () => {
                       <a href="https://wa.me/+919656043676">
                         <BsWhatsapp className="text-4xl text-green-600 transition-transform duration-500 hover:scale-110 " />
                       </a>
-                      <a
-                        href="www.linkedin.com/in/midhun-ep-
-
-"
-                      >
+                      <a href="www.linkedin.com/in/midhun-ep12">
                         <FaLinkedin className="text-4xl text-blue-600 transition-transform duration-500 hover:scale-110" />
                       </a>
+
                       <a href="https://github.com/Midhun-ep">
                         <FaGithub className="text-4xl text-gray-900 transition-transform duration-500 hover:scale-110" />
                       </a>
-                      <SiGmail className="text-4xl text-gray-800 transition-transform duration-500 hover:scale-110" />
+                      <a href="mailto:midhunep12@gmail.com">
+                      <SiGmail className="text-4xl text-gray-800 transition-transform duration-500 hover:scale-110" /></a>
                     </div>
-                    <a href="https://www.instagram.com/midhun_xr7?igsh=MWw4bmFyc2dwOXE5Zw=="><BsInstagram className="text-4xl mt-8 text-gray-800 transition-transform duration-500 hover:scale-110" /></a>
+                    <a href="https://www.instagram.com/midhun_xr7?igsh=MWw4bmFyc2dwOXE5Zw==">
+                      <BsInstagram className="text-4xl mt-8 text-gray-800 transition-transform duration-500 hover:scale-110" />
+                    </a>
 
                     <footer className="footer footer-center bg-base-300 text-base-content relative top-28">
                       <aside>
