@@ -24,7 +24,7 @@ const Contact = () => {
                 DON'T BE SHY !
               </h1>
               <p className="py-4 text-white">
-                Feel free to get in touch with me. 1 am always open to
+                Feel free to get in touch with me. I am always open to
                 discussing new projects, creative ideas or opportunities to be
                 part of your visions.
               </p>

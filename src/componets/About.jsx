@@ -35,7 +35,7 @@ const About = () => {
                     Age:<span className="text-white">21</span>
                   </li>
                   <li className="text-slate-400 md:font-medium">
-                    Freelance:<span className="text-white">Avilable</span>
+                    Freelance:<span className="text-white">Available</span>
                   </li>
                   <li className="text-slate-400 md:font-medium">
                     Phone:<span className="text-white ">9656043676</span>

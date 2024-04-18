@@ -51,8 +51,8 @@ const Education = () => {
                   />
                 </svg>
               </div>
-              <div className="timeline-end mb-10 text-white">
-                <time className="font-mono italic">6 month (2023)</time>
+              <div className="timeline-end mb-10 text-white text-start">
+                <time className="font-mono italic">2023 (6 months)</time>
                 <div className="text-lg font-black uppercase">fullstack webdevelopment cource <span className="font-extralight capitalize">- sdc networks kaloor</span></div>
                 I completed a Python Fullstack Web Development course at SDC Networks in Kaloor, mastering both front-end and back-end development. Equipped with comprehensive skills and a passion for innovation, I'm ready to embark on exciting web development projects
               </div>
