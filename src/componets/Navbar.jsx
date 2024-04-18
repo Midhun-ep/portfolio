@@ -1,4 +1,4 @@
-import React from "react";
+
 import { Link } from "react-scroll";
 import { IoHome } from "react-icons/io5";
 import { IoPersonSharp } from "react-icons/io5";
@@ -6,6 +6,7 @@ import { MdCastForEducation } from "react-icons/md";
 import { GrContact } from "react-icons/gr";
 
 const Navbar = () => {
+  
   return (
     <>
       <div className="flex justify-center ">

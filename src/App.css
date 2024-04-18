@@ -1,4 +1,5 @@
-*{
-    box-sizing: border-box;
-    overflow: hidden;
-}
+
+body {
+    overflow-x: hidden;
+  }
+  

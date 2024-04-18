@@ -54,7 +54,7 @@ const Education = () => {
               <div className="timeline-end mb-10 text-white">
                 <time className="font-mono italic">6 month (2023)</time>
                 <div className="text-lg font-black uppercase">fullstack webdevelopment cource <span className="font-extralight capitalize">- sdc networks kaloor</span></div>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ducimus, perspiciatis incidunt consectetur sed quo ipsum perferendis qui rerum expedita odit ipsa debitis nobis exercitationem quas at facilis velit, culpa ipsam.
+                I completed a Python Fullstack Web Development course at SDC Networks in Kaloor, mastering both front-end and back-end development. Equipped with comprehensive skills and a passion for innovation, I'm ready to embark on exciting web development projects
               </div>
               <hr />
             </li>
@@ -77,7 +77,7 @@ const Education = () => {
               <div className="timeline-start md:text-end mb-10 text-white">
                 <time className="font-mono italic">2024 </time>
                 <div className="text-lg font-black uppercase">Zyfarer Innovations LLP <span className="font-extralight capitalize">-as python developer</span></div>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Hic ad ducimus optio dolorem eligendi expedita, ratione, rerum veritatis accusantium nisi laborum molestiae dolores illum! Saepe dicta pariatur ipsum libero nesciunt.
+                I'm currently Working as a Python Developer Intern at Zyfarer Innovations LLP, where I'm immersed in real-world coding challenges. Collaborating with experienced professionals, I'm sharpening my skills and gaining hands-on experience in Python development, contributing to innovative software solutions.
               </div>
               <hr />
             </li>
