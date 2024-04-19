@@ -9,7 +9,7 @@ const Home = () => {
       <div id="home" className="grid grid-cols-1 md:grid-cols-2 lg:h-screen mb-24 md:mb-0">
         <div className="flex items-center md:mx-24 ">
           <div  className="group ml-20 md:ml-6   flex items-center">
-            <div data-aos="zoom-in" data-aos-duration="2000" className="absolute top-6 lg:top-36  bg-yellow-500 group-hover:bg-white rounded-lg h-[280px] md:h-[500px] w-[160px] md:w-[280px] -ml-1"></div>
+            <div className="absolute top-6 lg:top-36  bg-yellow-500 group-hover:bg-white rounded-lg h-[280px] md:h-[500px] w-[160px] md:w-[280px] -ml-1"></div>
             <img data-aos="flip-left" data-aos-duration="2000"
               className="h-[300px] md:h-[520px] md:w-[360px] z-50 md:ml-4 rounded-3xl "
               src={profile}
@@ -27,7 +27,7 @@ const Home = () => {
               <h2 className="text-5xl text-white font-bold text-wrap">
                 PYTHON DEVELOPER
               </h2></div>
-              <p data-aos="fade-left" data-aos-duration="1500" className="mt-6 text-wrap text-white text-base md:text-lg">
+              <p data-aos="zoom-in-down" data-aos-duration="1500" className="mt-6 text-wrap text-white text-base md:text-lg">
                 I'm a Python Django full-stack developer skilled in React and
                 Tailwind CSS. Specializing in dynamic web applications, I excel
                 in both front-end and back-end development, delivering

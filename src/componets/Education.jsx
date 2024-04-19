@@ -4,8 +4,8 @@ const Education = () => {
   return (
     <>
       <div id="morebtn" className="h-screen text-center mb-40 md:mb-0">
-        <div data-aos="zoom-out-up" data-aos-duration="1500" className="pb-6 md:mb-8">
-          <h1 className="text-white font-extrabold text-4xl md:-mt-8">EDUCATION  <span className="text-slate-500"> / </span> <span className="text-yellow-500">WORK EXPERIENCE</span> </h1>
+        <div data-aos="zoom-in" data-aos-duration="1500" className="pb-6 md:mb-8">
+          <h1 className="text-white font-extrabold text-xl  md:text-4xl md:-mt-8">EDUCATION  <span className="text-slate-500"> / </span> <span className="text-yellow-500">WORK EXPERIENCE</span> </h1>
         </div>
         <div data-aos="flip-left"
      data-aos-easing="ease-out-cubic"

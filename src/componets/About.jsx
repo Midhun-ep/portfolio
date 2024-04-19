@@ -19,7 +19,7 @@ const About = () => {
         </div>
         <div className="grid  md:grid-cols-2 ">
           <div className="left ">
-            <div data-aos="zoom-out" data-aos-duration="1500" className="head">
+            <div className="head">
               <h1 className="text-white pt-2 md:pt-28 pl-[112px] font-bold text-xl md:text-2xl">
                 PERSONAL INFO
               </h1>
